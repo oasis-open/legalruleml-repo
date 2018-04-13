@@ -41,7 +41,7 @@
 
 <li><a href="mailto:monica.palmirani@unibo.it">Monica Palmirani</a>; GitHub ID: <a href="https://github.com/palmirani/">https://github.com/palmirani/</a>; WWW: <a href="http://wwwcirsfid.unibo.it/">University of Bologna-CIRSFID</a></li>
 
-<li><a href="mailto:gvdgdo@gmail.com">Guido Governatori</a> [pending]; GitHub ID: <a href="https://github.com/gvdgdo/">https://github.com/gvdgdo/</a>; WWW: <a href="http://wwwcirsfid.unibo.it/">University of Bologna-CIRSFID</a></li>
+<li><a href="mailto:gvdgdo@gmail.com">Guido Governatori</a>; GitHub ID: <a href="https://github.com/gvdgdo/">https://github.com/gvdgdo/</a>; WWW: <a href="http://wwwcirsfid.unibo.it/">University of Bologna-CIRSFID</a></li>
 
 <li><a href="mailto:azwyner@abdn.ac.uk">Adam Wyner</a> [pending]; GitHub ID: <a href="https://github.com/githubWyner12/">https://github.com/githubWyner12/</a>; WWW: <a href="https://www.abdn.ac.uk/">University of Aberdeen</a></li>
 
